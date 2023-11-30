@@ -27,7 +27,7 @@
 #### 🥺 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚘𝚙𝚢 𝚃𝚑𝚒𝚜 𝚁𝚎𝚙𝚘 𝙱𝚞𝚝 𝙼𝚞𝚜𝚝 𝙶𝚒𝚟𝚎 𝙲𝚛𝚎𝚍𝚒𝚝𝚜 ...
 
 ### 🌷 𝚘𝚠𝚗𝚎𝚛 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 
-[![𝐕𝐄𝐍𝐎𝐌](https://telegra.ph/file/617a7c468f993bb5e567a.mp4)](https://telegram.me/its_arryan)
+[![VENOM](https://telegra.ph/file/617a7c468f993bb5e567a.mp4)](https://telegram.me/its_arryan)
 
 
 #### 𝙼𝚊𝚒𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 = [𝐕𝐄𝐍𝐎𝐌](https://telegram.me/its_arryan)
