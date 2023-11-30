@@ -5,4 +5,4 @@ RUN pip3 install -U pip
 COPY . /Bikash/
 WORKDIR /Bikash/
 RUN pip3 install -U -r Installer
-CMD python3 Venom.py
+CMD python3 Bikash.py
