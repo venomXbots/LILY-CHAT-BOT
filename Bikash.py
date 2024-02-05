@@ -46,7 +46,7 @@ async def start_(client: Client, message: Message):
 ┣❥︎ ♕︎ᴏᴡɴᴇʀ♕︎  » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{OWNER_USERNAME})
 ┣❥︎ ᴄʜᴀɴɴᴇʟ ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{UPDATES_CHANNEL})
 ┣❥︎ ɢʀᴏᴜᴘ  ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{SUPPORT_GROUP})
-┣❥︎ ᴄʀᴇᴀᴛᴏʀ ➪ » [💫𝐕𝐄𝐍𝐎𝐌💀](https://t.me/its_arryan)
+┣❥︎ ᴄʀᴇᴀᴛᴏʀ ➪ » [𝚲꯭ᴛΔɴᴋɪ 𝚲꯭ ᴛ꯭꯭꯭꯭ ᴍ꯭꯭꯭꯭ ᧘](https://t.me/l_ATANKI_ATMA_ll)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ᴀᴅᴅ ᴍᴇ » ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ
